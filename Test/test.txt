@@ -1,0 +1,7 @@
+Mi_dinero:0
+Liquido:0
+Debo:0
+Me_deben:0
+***Transacciones***
+
+//[Compré una ps3]:{-375000}
